@@ -13,18 +13,18 @@ const noMessages = [
     "No",
     "Estas Segura? 🤔",
     "Morchi porfa... 🥺",
-    "Si dices no, estaré muy triste...",
+    "Si dices no, estare muy triste...",
     "Muy muy triste... 😢",
     "Porfiii??? 💔",
     "No me hagas estooo...",
-    "Última Oportunidad 😭",
+    "Ultima Oportunidad 😭",
     "Atrapame si puedes! 😜"
 ]
 
 const yesTeasePokes = [
     "Intenta decir que no primerooo... imagino que quieres saber que pasará 😏",
-    "vamoos... dale a no una vez! 👀",
-    "Te lo estás perdiendo 😈",
+    "Vamoos... dale a no una vez! 👀",
+    "Te lo estas perdiendo 😈",
     "Ponle noo, te reto 😏"
 ]
 
