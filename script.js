@@ -1,4 +1,4 @@
-const gifStages = [
+stasconst gifStages = [
     "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
     "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
@@ -11,21 +11,21 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Estas Segura? 🤔",
+    "Morchi porfa... 🥺",
+    "Si dices no, estaré muy triste...",
+    "Muy muy triste... 😢",
+    "Porfiii??? 💔",
+    "No me hagas estooo...",
+    "Última Oportunidad 😭",
+    "Atrapame si puedes! 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "Intenta decir que no primerooo... imagino que quieres saber que pasará 😏",
+    "vamoos... dale a no una vez! 👀",
+    "Te lo estás perdiendo 😈",
+    "Ponle noo, te reto 😏"
 ]
 
 let yesTeasedCount = 0
